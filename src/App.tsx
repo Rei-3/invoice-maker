@@ -1,6 +1,6 @@
 import './App.css';
 
-const App = () => {
+export default function App() {
   return (
     <div className="content">
       <h1>Rsbuild with React</h1>
@@ -9,4 +9,3 @@ const App = () => {
   );
 };
 
-export default App;
